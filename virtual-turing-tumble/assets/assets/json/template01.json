@@ -1,0 +1,188 @@
+{
+  "name": "Template 1",
+  "pieces": [
+    {
+      "piece-name": "bit",
+      "side": "right",
+      "holder": [
+        0,
+        3
+      ]
+    },
+    {
+      "piece-name": "bit",
+      "side": "left",
+      "holder": [
+        0,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        1,
+        2
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        1,
+        4
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        1,
+        6
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        1,
+        8
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        2,
+        3
+      ]
+    },
+    {
+      "piece-name": "crossover",
+      "holder": [
+        2,
+        5
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        2,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        3,
+        4
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        3,
+        6
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        4,
+        3
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        4,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        5,
+        4
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        5,
+        6
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        6,
+        3
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        6,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        7,
+        4
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        7,
+        6
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        8,
+        3
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        8,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        9,
+        4
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        9,
+        6
+      ]
+    }
+  ]
+}
