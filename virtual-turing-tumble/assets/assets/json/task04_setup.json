@@ -1,0 +1,52 @@
+{
+  "name": "Task 4",
+  "pieces": [
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        0,
+        3
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        1,
+        4
+      ]
+    },
+    {
+      "piece-name": "bit",
+      "side": "left",
+      "holder": [
+        2,
+        5
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        6,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        7,
+        6
+      ]
+    },
+    {
+      "piece-name": "interceptor",
+      "holder": [
+        8,
+        5
+      ]
+    }
+  ]
+}

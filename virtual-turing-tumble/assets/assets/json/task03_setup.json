@@ -1,0 +1,45 @@
+{
+  "name": "Task 3",
+  "pieces": [
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        0,
+        3
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "left",
+      "holder": [
+        1,
+        4
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        0,
+        7
+      ]
+    },
+    {
+      "piece-name": "ramp",
+      "side": "right",
+      "holder": [
+        1,
+        6
+      ]
+    },
+    {
+      "piece-name": "bit",
+      "side": "left",
+      "holder": [
+        2,
+        5
+      ]
+    }
+  ]
+}
